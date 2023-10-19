@@ -1,0 +1,28 @@
+Requirements:
+1) demonstrate game play
+2) demonstrate the game's main features
+3) main challenges encountered?
+4) lessons you have learned?
+
+Script:
+1 and 2)
+This is a prologue for the main game. It serves as a cutscene and doesn't really have any actual gameplay.
+The story is that a man finds himself in a graveyard, where he is greeted by an angel.
+The angel transforms his body and places him in an unknown world, leaving him with a sword to defend
+himself against demons that seem to appear out of nowhere.
+
+The character is controlled using the keyboard: A for left, D for right, W for jump and S for attack.
+The aim of the game is to defeat as many demons as possible within 60 seconds.
+If 60 seconds have passed, if a demon catches you, or if you fall down to the spikes below, then the game ends.
+
+A new enemy appears somewhere in the game world every 2 seconds, then disappears after 10 seconds.
+
+After you die, the game displays your final score and your high score. You can press R to restart the main game.
+
+3)
+By far, the main challenge I encountered was achieving a seamless transition between the prologue and the main game.
+Getting the audio to work correctly was also quite challenging.
+
+4)
+The lessons I learned included: handling null pointer exceptions, using abstract classes and interfaces
+and maximising encapsulation.
