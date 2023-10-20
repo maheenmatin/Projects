@@ -1,6 +1,12 @@
-# javaproject2023-maheenmatin
-javaproject2023-maheenmatin created by GitHub Classroom
-maheenmatin
+# Maheen Matin
+
+-In IntelliJ IDEA, open the directory "WhereAmI".
+Then, go to "File" --> "Project Structure". 
+In "SDKs", apply JDK 17. 
+In "Global Libraries", click "+" in the second column, 
+then click "Java".
+In the "CityEngine40" directory, select the "CityEngine.jar"
+file. Finally, click "Apply" and "OK".
 
 -The prologue was something I built to practice using
 the CityEngine - and, as a result, the code is quite
